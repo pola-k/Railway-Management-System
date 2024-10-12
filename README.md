@@ -86,7 +86,7 @@ Clients can reach out to customer care services for guidance and support regardi
 ## Database Schema
 The database schema is designed to support the functionalities of the Railway Management System. It includes tables for users, bookings, schedules, and reviews, ensuring efficient data management.
 
-![Database Schema]("Database Schema".png)
+![Database Schema](Database_Schema.png)
 
 ## Usage Instructions
 1. **Creating an Account**: Click on the "Sign Up" button on the homepage and fill out the registration form.
